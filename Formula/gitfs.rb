@@ -3,8 +3,8 @@ class Gitfs < Formula
 
   desc "Version controlled file system"
   homepage "http://www.presslabs.com/gitfs"
-  url "https://github.com/PressLabs/gitfs/archive/0.4.3.tar.gz"
-  sha256 "d8dcfb176c0672cb72f0fc3718ccfd76420979be92668f440a81579b2438adc0"
+  url "https://github.com/PressLabs/gitfs/archive/0.4.4.tar.gz"
+  sha256 "811596c51affc6d9790f4a565218a18a71e23559854216369323cc1fca82897a"
   head "https://github.com/PressLabs/gitfs.git"
 
   depends_on "libgit2"
