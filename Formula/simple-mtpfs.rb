@@ -1,8 +1,8 @@
 class SimpleMtpfs < Formula
   desc "Simple MTP fuse filesystem driver"
   homepage "https://github.com/phatina/simple-mtpfs"
-  url "https://github.com/phatina/simple-mtpfs/archive/simple-mtpfs-0.2.tar.gz"
-  sha256 "3ce41fb194971041aa6ad15292a6cdad70eb8b5fc3e7a03a638bc3cac0c515ea"
+  url "https://github.com/phatina/simple-mtpfs/archive/simple-mtpfs-0.2.1.tar.gz"
+  sha256 "e880a4971887dd27eaec7337f3f1f683e67e66f5c08ed6ef469797bdf5e5087a"
 
   depends_on "pkg-config" => :build
   depends_on "autoconf" => :build
